@@ -1,0 +1,236 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Maiesties letter intercepted by the commissioners attending his Majesty. (A copie whereof was sent to the Parliament.) and Mr. Mungo Murrey apprehended, who was appointed by the King to deliver it to Montrel; the French embassador, who is going over to the Queen to France. And a list of the jests of all the severall places where His Majestie hath lain, and is to lie everie day between Newcastle and Holmby House. Also the maner of the Scots marching home into Scotland, with other newes from the court, and Newcastle. Perused, and (being examined) is appointed to be printed and published, according to order of Parliament, Feb. 9. 1646.</title>
+            <author>Sammel, L.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93831</idno>
+            <idno type="STC">Wing S534</idno>
+            <idno type="STC">Thomason E375_5</idno>
+            <idno type="STC">ESTC R18908</idno>
+            <idno type="EEBO-CITATION">99860494</idno>
+            <idno type="PROQUEST">99860494</idno>
+            <idno type="VID">112614</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93831)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112614)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 60:E375[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Maiesties letter intercepted by the commissioners attending his Majesty. (A copie whereof was sent to the Parliament.) and Mr. Mungo Murrey apprehended, who was appointed by the King to deliver it to Montrel; the French embassador, who is going over to the Queen to France. And a list of the jests of all the severall places where His Majestie hath lain, and is to lie everie day between Newcastle and Holmby House. Also the maner of the Scots marching home into Scotland, with other newes from the court, and Newcastle. Perused, and (being examined) is appointed to be printed and published, according to order of Parliament, Feb. 9. 1646.</title>
+                  <author>Sammel, L.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. Coe, neer Cripplegate,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed and dated on page [7]: Newcastle the 4. of February 1646. L. Sammel.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "feb: 10th 1646"; the 7 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Murray, Mungo, 17th cent.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112614:1" rendition="simple:additions"/>
+            <p>The Kings Maieſties LETTER INTERCEPTED By the Commiſsioners attending his <hi>MAJESTY.</hi> (A copie whereof was ſent to the PARLIAMENT.) AND Mr. MUNGO MURREY apprehended, who was appointed by the KING to deliver it to Montrel, the French Embaſſador, Who is going over to the QVEEN to FRANCE.</p>
+            <p>And a Liſt of the Jeſts of all the ſeverall places where his Majeſtie hath lain, and is to lie everie day be<g ref="char:EOLhyphen"/>tween Newcaſtle and Holmby houſe.</p>
+            <p>Alſo the maner of the Scots marching home into Scotland, with other newes from the Court, and Newcaſtle.</p>
+            <p>
+               <hi>PEruſed, and (being examined) is appointed to be Printed and Publiſhed, according to</hi> Order of Parliament, <hi>Feb.</hi> 9. 1646.</p>
+            <p>LONDON: Printed by A. COE, neer Cripplegate, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:112614:2"/>
+            <pb facs="tcp:112614:2"/>
+            <head>The Kings Maieſties Letter intercepted, <hi>By the Commiſsioners attending his Majeſty.</hi>
+            </head>
+            <head type="sub">A Copie whereof was ſent to the <hi>PARLIAMENT.</hi>
+            </head>
+            <opener>
+               <salute>WORTHY SIR,</salute>
+            </opener>
+            <p>YOURS by the Poſt I have received, for which I thank you, and in demonſtration of it, give you this return. Sir, I ſuppoſe you cannot want intelligence how things are managed here, and my labour might be ſpared; howſoever, I cannot but aſſure you, the Scots are all departed; and had I not ſeen them march, I could never have beleeved, either their number to have been in the Kingdom, nor their ſad behaviour up<g ref="char:EOLhyphen"/>on their departing: yet I impute it not to the Nation,
+<pb facs="tcp:112614:3"/>nor the Army, but to particular perſons therof, though ſome Officers co<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ive to <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, I dare affirme, that of all the Horſe I ever ſaw in this Kingdome, ſince the firſt marching from Keinton, I never ſaw ſo many b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave Horſe together, at leaſt ſix thouſand. The Of<g ref="char:EOLhyphen"/>ficers all marched w<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>h naked ſwords, but their Hor<g ref="char:EOLhyphen"/>ſes were not b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e; for they were all <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ded and cloathed to purpoſe. But they have been ſo reall in the main, that I will goe backward and hide their nakedneſſe.</p>
+            <p>The V<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce Admi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>als Ship is ſtill in Lieth Road in Sco<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>land, ſtopping <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, nor doth the winde ſerve for her to come away as <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et.</p>
+            <p>The Holland man of Warre at Tinmouth, longs as much to be gone, as we to have him, but is wind<g ref="char:EOLhyphen"/>bound. The Vice Adm<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rall waits on her in the Con<g ref="char:EOLhyphen"/>ſtant Warwick, and hath two more with him.</p>
+            <p>Yeſterday wee heard of the Fellowſhip without the Barre, but a ſtorm came up about three a clock, and put her off to Sea.</p>
+            <p>There dined aboord the Vice Admirall Ship, Adju<g ref="char:EOLhyphen"/>tant Generall Deate, of the Army, the Judge Advo<g ref="char:EOLhyphen"/>cate, Commiſſioner Potter, Major Smith, and Cap<g ref="char:EOLhyphen"/>tain Skippon. Major Smith received Tinmouth Ca<g ref="char:EOLhyphen"/>ſtle, and is there at preſent. Who ſhall be governor of Tinmouth Caſtle, I ſhall advert<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe you in my next.</p>
+            <p>On Saturday laſt the Engliſh Commiſſioners took <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſeſſion of his Majeſty, and ſetled Families: His Majeſty took it very ill to have his old Servants taken <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>om him. That (and ſome other things which I for<g ref="char:EOLhyphen"/>beare at preſent) put his Majeſty into an humour that he would not heare Major Ke<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e preach on the Lords day, although two dayes before he cauſed a note to be
+<pb facs="tcp:112614:3"/>ſent to him to preach, but be applyed himſelfe to the Commiſſioners, and acquainted them that he would take no notice of it without their Summons.</p>
+            <p>Then Ma<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or Keme was appointed to preach, who ac<g ref="char:EOLhyphen"/>cordingly came hither to Newcaſtle on ſaturday night; and being come, he ſent the ſame night to Mr. Marſhal, to know which time of the day he pleaſed: who ſpake with Mr. Keme, and told him, that both he and Mr. C<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll had had ſome p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ivate diſcourſe with the King about it, but that His Majeſty was reſolved to heare none of them.</p>
+            <p>And accordingly on that Lords day his Majeſty was as good as his word, his Majeſtie never came, although much imp<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tuned by the Earle of Pembroke, the Earle of Denbigh, &amp;c.</p>
+            <p>His Majeſtie hath now other maner of Table and attendance then formerly, a great many honeſt godly Courtiers, and good Souldiers, Mr. Harbert, Sir Fnlke Grivill, Captain Mildmay Carver, Mr. Harring<g ref="char:EOLhyphen"/>ton of the Bedchamber, Mr. Douſer, Captain Titus Querrey, &amp;c.</p>
+            <p>The King yeſterday tooke his journey from hence, I have ſent you here incloſed a liſt of the ſeverall places appointed for his quar<g ref="char:EOLhyphen"/>ters every night from hence <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> by Houſe.</p>
+            <p>The Lord move his Majeſties he art to con<g ref="char:EOLhyphen"/>ſider what is paſt, and take his journey Hea<g ref="char:EOLhyphen"/>venward, to act for his glory for the future.</p>
+            <p>On Munday laſt one Mr. Mungo Mur<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey,
+<pb facs="tcp:112614:4"/>who hath been a ſervant to the King, deſired leave of the Commiſſioners to take his leave of the King, and ſo to go into Scotland: which was granted to him.</p>
+            <p>The ſaid Mr. Mungo Murrey, having thus obtained leave, came to his Maieſty, and his Maieſty gave him his hand to kiſſe, which he did.</p>
+            <p>But withall ſomthing was perceived (by one of the Commiſsioners) to be put in Mr. Mungo Murries hand, by the King; who be<g ref="char:EOLhyphen"/>ing followed, and by the Commiſsioners ex<g ref="char:EOLhyphen"/>amined, and ſearched, it was found to be alet<g ref="char:EOLhyphen"/>ter, which he was to deliver to Montrel the French Agent.</p>
+            <p>It was all in Cyphers, ſo that nothing could be read of it, but the Commiſsioners have ſent it to the Parliament to ſee if they have keyes to unlock thoſe Ciphers, the particulars whereof will be with you firſt, if opened.</p>
+            <p>Some ſuppoſe it to be a letter to Montrell, to give him directions in ſome things which he ſhould do; others gueſſe it to be a letter which ſhould have been ſent to the Queene to France, whither (it is ſuppoſed) Montrell is immediately to go, from Scotland.</p>
+            <pb facs="tcp:112614:4"/>
+            <p>But, the letter is all in figures, and Cyphers, both within, and without, the very Super<g ref="char:EOLhyphen"/>ſcription.</p>
+            <p>This Mr. Mungo Murrey was apprehended, and in Cuſtody for two dayes, and then ſuffi<g ref="char:EOLhyphen"/>cient ſecurity was given for his forthcoming within 4. dayes, in caſe that he ſhould be de<g ref="char:EOLhyphen"/>manded, ſo he had his liberty. And the Com<g ref="char:EOLhyphen"/>miſſioners have ſent up to the Parliament to know their pleaſure therein.</p>
+            <p>His Maieſtie ſet out from hence yeſterday<g ref="char:EOLhyphen"/>night in great Pompe, with attendance more befitting and ſutable to a King, than ſome years paſt. God grant all maybe for the beſt, ſo prayes</p>
+            <closer>
+               <dateline>
+                  <hi>Newcaſtle</hi> 
+                  <date>
+                     <hi>the</hi> 4. <hi>of February</hi> 1646.</date>
+               </dateline>
+               <signed>Your humble Servant L. SAMMEL.</signed>
+            </closer>
+         </div>
+         <div type="details_of_journey">
+            <pb facs="tcp:112614:5"/>
+            <head>
+               <hi>A liſt of the Jeſts, and ſeverall places ap<g ref="char:EOLhyphen"/>pointed for His Majeſties quarters each day betwixt</hi> Newcaſtle, <hi>and</hi> Holmby <hi>Houſe.</hi>
+            </head>
+            <p>Wedneſday Feb. 3. his Majeſty went from New<g ref="char:EOLhyphen"/>caſtle to Durham.</p>
+            <p>Thurſday Feb. 4. his Majeſty paſſed to Biſhop Auk<g ref="char:EOLhyphen"/>land.</p>
+            <p>Friday Feb. 5. his Maj. was to paſſe to Richmond.</p>
+            <p>Saturday Feb. 6. his Maj. was to paſſe to Repton.</p>
+            <p>Sunday Feb. 7. his Majeſty was to ſtay at Repton all that day.</p>
+            <p>Munday Feb. 8. his Maj. was to paſſe to Leeds.</p>
+            <p>Tueſday Feb. 9. his Maj. was to paſſe to Wake field.</p>
+            <p>Wedneſday Feb. 10. his Maj. is to paſſe to Ro<g ref="char:EOLhyphen"/>thram.</p>
+            <p>Thurſday Feb. 11. his Majeſtie is to paſſe to Masfield.</p>
+            <p>Friday Feb. 12. his Majeſtie is to paſſe to Not<g ref="char:EOLhyphen"/>tingham.</p>
+            <p>Saturday Feb. 13. his Maj. is to paſſe to Leiceſter.</p>
+            <p>Sunday Feb. 14. his Majeſtie is to ſtay all that day at Leiceſter.</p>
+            <p>Munday Feb. 15. his Majeſty is to go to Holmby Houſe.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
